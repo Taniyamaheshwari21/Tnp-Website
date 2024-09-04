@@ -1,0 +1,176 @@
+nav.navbar.navbar-expand-lg.navbar-dark{
+    background: rgba(0, 0, 0, 0.696); 
+    padding: 15px 0;
+    position: absolute;
+    z-index:1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0px 10px 60px 0px rgba(48, 48, 48, 0.669);
+}
+nav.navbar.navbar-expand-lg.navbar-dark a.navbar-brand{
+    margin-left:35px;
+}
+body div.yel h1{
+    margin-top:90px;
+    margin-left:00px;
+}
+body div.section.bg-light{
+    padding-top:90px;
+}
+nav.navbar.navbar-expand-lg.navbar-dark div#navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link.bro{
+    margin-left:950px;}
+nav.navbar.navbar-expand-lg.navbar-dark div#navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
+    margin-left:15px;
+}
+nav.navbar.navbar-expand-lg.navbar-dark div#navbarSupportedContent div.logo a img{
+    width:120px;
+    margin-left: 550px;
+
+}
+div.collapse.navbar-collapse div.logo{
+    width:60px;
+    position:absolute;
+    margin-bottom: 90px;    
+    z-index:2;
+}
+section.bg-light div.container div.row div.col-lg-12.mb-4.mb-sm-5 div.card.card-style1.border-0 div.card-body.p-1-9.p-sm-2-3.p-md-6.p-lg-7 div.row.align-items-center div.col-lg-.px-xl-10 div div.bg-secondary.d.d-lg-inline-block.py-1-9.px-1-9-sm-6.mb-1-9.rounded{
+    width:800px;
+
+}
+
+div.logout form{
+    margin-left:720px;
+}
+div.logout p{
+    margin-left:640px;
+}
+div.logout h2{
+    margin-left:700px;
+    margin-top:90px;
+}
+/* body{
+    background-image: url("bg.jpg"); 
+} */
+div.yolo h4{
+    margin-top:90px;
+    margin-left:20px;
+}
+.align-items-start{
+    display: flex;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark img{
+    width: 50px;
+}
+body{margin-top:20px;}
+.card-style1 {
+    box-shadow: 0px 0px 10px 0px rgb(89 75 128 / 9%);
+}
+.border-0 {
+    border: 0!important;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+section {
+    padding: 120px 0;
+    overflow: hidden;
+    background: #fff;
+}
+.mb-2-3, .my-2-3 {
+    margin-bottom: 2.3rem;
+}
+
+.section-title {
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    position: relative;
+    display: inline-block;
+}
+.text-primary {
+    color: #ceaa4d !important;
+}
+.text-secondary {
+    color: #15395A !important;
+}
+.font-weight-600 {
+    font-weight: 600;
+}
+.display-26 {
+    font-size: 1.3rem;
+}
+
+@media screen and (min-width: 992px){
+    .p-lg-7 {
+        padding: 4rem;
+    }
+}
+@media screen and (min-width: 768px){
+    .p-md-6 {
+        padding: 3.5rem;
+    }
+}
+@media screen and (min-width: 576px){
+    .p-sm-2-3 {
+        padding: 2.3rem;
+    }
+}
+.p-1-9 {
+    padding: 1.9rem;
+}
+
+.bg-secondary {
+    background: #15395A !important;
+}
+@media screen and (min-width: 576px){
+    .pe-sm-6, .px-sm-6 {
+        padding-right: 3.5rem;
+    }
+}
+@media screen and (min-width: 576px){
+    .ps-sm-6, .px-sm-6 {
+        padding-left: 3.5rem;
+    }
+}
+.pe-1-9, .px-1-9 {
+    padding-right: 1.9rem;
+}
+.ps-1-9, .px-1-9 {
+    padding-left: 1.9rem;
+}
+.pb-1-9, .py-1-9 {
+    padding-bottom: 1.9rem;
+}
+.pt-1-9, .py-1-9 {
+    padding-top: 1.9rem;
+}
+.mb-1-9, .my-1-9 {
+    margin-bottom: 1.9rem;
+}
+@media (min-width: 992px){
+    .d-lg-inline-block {
+        display: inline-block!important;
+    }
+}
+.rounded {
+    border-radius: 0.25rem!important;
+}
+body div#ecom h1{
+    margin-left:540px;
+}
+
+body div#history h1{
+    margin-left:500px;
+}
